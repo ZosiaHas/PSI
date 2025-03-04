@@ -1,4 +1,4 @@
-# Zadanie 2. Analiza ca³ego akapitu ----
+# Zadanie 2. Analiza caÂ³ego akapitu ----
 
 # Wczytaj dane tekstowe
 text <- "And so even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream."
